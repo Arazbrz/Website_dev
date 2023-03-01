@@ -1,0 +1,21 @@
+site_name: Araz Karimi
+site_url: htttp://arzbrz.com
+authors:
+- Araz Bagherzadeh Karimi
+nav:
+
+- Home: index.md
+-  Project Samples:  
+   - 'Software': Background/BackgroundSoftware.md
+   - 'Power': Background/BackgroundPower.md
+  
+
+- Project Request: ProjectRequest.md
+
+- Articles: Articles.md
+
+theme:
+    name: mkdocs
+    nav_style: dark
+
+

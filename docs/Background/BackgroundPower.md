@@ -10,6 +10,17 @@ An automatic Short Circuit Assessment-based tool is developed for Distributed Ge
 Client-customized Excel spreadsheet power system data is directly migrated into cyme software using excel macros, SQL, and Microsoft access.
 Extensive Data was transferred with no error, and a manual was created on how to use the code to do the automatic migration.
 
+## AC Microgrid Power Sharing Design and Study
+
+In this project first the control scheme of the standealone AC genertors in a microgrid is designed. In the second phase, the inverters are connected to each other and the various loads in different power quality and faulty situations. In the third phase a distributed and centralized tertiary control scheme is designed to operate the microgrid.
+
+![The AC Microgrid](/files/Main.jpg)
+*The AC Microgrid*
+
+![The Control Scheme](/files/schematic.jpg)
+*The PR control Scheme*
+
+
 ## Distributed Energy Installation in a Distribution Network          
 
 DG placement with Powerfactory DPL, Sizing, Control Setting with Powerfactory DSL, relaying, and grid code compliance.

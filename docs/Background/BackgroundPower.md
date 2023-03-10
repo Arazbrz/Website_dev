@@ -1,14 +1,14 @@
 ## [Reliable fault-ride through and protection of converter-dominated power systems under unbalanced conditions](https://wispo.ece.wisc.edu/projects/pserc-s-95-reliable-fault-ride-through-and-protection-of-converter-dominated-power-systems-under-unbalanced-conditions/)
 Power electronics interfacing renewables, storage, and novel transmission technologies are envisioned to be the cornerstone of tomorrow’s resilient and sustainable power systems. While state-of-the-art power converter control can replace grid-forming and grid-supporting functionalities of synchronous machines, their design typically neglects crucial aspects such as unbalanced faults and the interaction between converter protection (e.g., current limiting) and system-level protection. This jeopardizes system reliability and resilience and has already resulted in large-scale system outages and separation events. This proposal is focused on development of a framework that explicitly accounts for current limits, unbalanced conditions, and protection in the control design. The proposed approach will enable reliable and predictable fault-ride through capabilities that do not rely on heuristics, avoid adverse interactions with system protection, and retain the positive impact of grid-forming control on system-level stability when feasible.
 
-## Short-Circuit based DG placement study in a MV Network 
+## Digital Implementation of Protection Relays with MATLAB                           
 
-An automatic Short Circuit Assessment-based tool is developed for Distributed Generation Placement. Powerfactory add-on script and User’s Manual is developed and provided to the Engineers, Saving hours of engineering jobs via automation of short-circuit study and obtaining valuable data for decision making.
+An improved scheme for distance protection in marginal faults proposed and tested
+Man-Morison and FFT phasor estimation methods, Overcurrent, Distance, Wavelet, Directional Overcurrent, Differential, power swing blocking, and other features coded in MATLAB
+PSCAD-generated fault waveforms
 
-## Automatic Migration of Excel formatted power system Data into CYME                          
-
-Client-customized Excel spreadsheet power system data is directly migrated into cyme software using excel macros, SQL, and Microsoft access.
-Extensive Data was transferred with no error, and a manual was created on how to use the code to do the automatic migration.
+![Innovative and Fast Distance Algorithm](/files/Distance.jpg)
+*Innovative and Fast Distance Algorithm*
 
 ## AC Microgrid Power Sharing Design and Study
 
@@ -19,6 +19,17 @@ In this project first the control scheme of the standealone AC genertors in a mi
 
 ![The Control Scheme](/files/schematic.jpg)
 *The PR control Scheme*
+
+## Short-Circuit based DG placement study in a MV Network 
+
+An automatic Short Circuit Assessment-based tool is developed for Distributed Generation Placement. Powerfactory add-on script and User’s Manual is developed and provided to the Engineers, Saving hours of engineering jobs via automation of short-circuit study and obtaining valuable data for decision making.
+
+## Automatic Migration of Excel formatted power system Data into CYME                          
+
+Client-customized Excel spreadsheet power system data is directly migrated into cyme software using excel macros, SQL, and Microsoft access.
+Extensive Data was transferred with no error, and a manual was created on how to use the code to do the automatic migration.
+
+
 
 
 ## Distributed Energy Installation in a Distribution Network          
@@ -33,15 +44,14 @@ Total Loss is calculated for different load imbalance intensities using DPL (Dig
 
 ## AVR, Governor, and PSS Design for a Generator                                                      
 
+![The PSS](/files/PSS.png)
+*Generator angle in different phenomena with PSS installed*
 
 ## MATLAB Simulink Generator modeling
 Parameter tuning of the standard governor AVR and PSS blocks and testing the stability and damping of the output
 
-## Digital Implementation of Protection Relays with MATLAB                           
 
-An improved scheme for distance protection in marginal faults proposed and tested
-Man-Morison and FFT phasor estimation methods, Overcurrent, Distance, Wavelet, Directional Overcurrent, Differential, power swing blocking, and other features coded in MATLAB
-PSCAD-generated fault waveforms
+
 ## Domestic and Industrial Electrical Design                    
 
 The calculation, Specification, and Drawing of Industrial Electricity System Using Autocad

@@ -1,5 +1,7 @@
 ##  [Full Stack Blog Application Development](https://myblog-379005.uk.r.appspot.com/)
 
+<i class="fa fa-file-pdf-o"></i>
+
 Used React for Front End, Node.js (Javascript) for Backend, MongoDB for the database, and Google cloud for web hosting and release 
 ## [Database System Development for a sample enterprise](https://github.com/Arazbrz/Database)
 Relational Data Structure design and develop a system to monitor the operating condition and relationship of the football activities.

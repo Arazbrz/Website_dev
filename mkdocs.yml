@@ -9,10 +9,15 @@ nav:
    - 'Software': Background/BackgroundSoftware.md
    - 'Power': Background/BackgroundPower.md
   
+- Courses: Courses.md
+
+- Articles: Articles.md
 
 - Project Request: ProjectRequest.md
 
-- Articles: Articles.md
+
+
+
 
 theme:
     name: mkdocs

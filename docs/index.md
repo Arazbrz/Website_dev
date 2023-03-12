@@ -1,6 +1,7 @@
 # Home
 
-<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+
+
 
 Welcome to the personal website of Araz Bagherzadeh Karimi. This website is intended to serve as my CV and a link to my selected projects.
 
@@ -10,31 +11,27 @@ Welcome to the personal website of Araz Bagherzadeh Karimi. This website is inte
 
 ## About Me
 
-Driven and hardworking Electrical and computer engineer. Thanks to having two master's degrees, one from the best University of Iran (University of Tehran) and the other one from the prestigious Georgia Tech, I had the opportunity to gain experience and education in both electrical power systems and software engineering with a CS oriented coursework. I have a Full stack development skill set, and my goal is to narrow it towards database management and data engineering. For a detailed skill set go to my CV:
+Driven and hardworking Electrical and computer engineer with more than one year of professional experience. Thanks to having two master's degrees, one from the University of Tehran and one from the Georgia institute of Technology, I had the opportunity to gain experience and education in both electrical power systems and software engineering with both power and CS oriented coursework. I have a Full stack development skill set with a vision to Data, alongside with power system modeling and design. My goal is to move towards database management and data engineering applications preferably in energy sector. For a detailed skill set you can refer to:
 
-<i class="fa fa-file-pdf-o"></i> Resumes: [Power](/files/Araz B Karimi Resume Software.pdf)             [Software](/files/Araz B Karimi Electrical Resume.pdf)
+<i class="fa fa-file-pdf-o"></i> PDF Resumes: [Power](/files/Araz B Karimi Resume Software.pdf){ .md-button }            [Software](/files/Araz B Karimi Electrical Resume.pdf){ .md-button }
+
+
+
+
+Courses and Skills: [Software and Data](/Courses/Software/){ .md-button } [Power System Operation](/Courses/Operation/){ .md-button } [power System Design](/Courses/Design/){ .md-button }
+
+
+Project Samples: [Software and Data](/Background/BackgroundSoftware/){ .md-button } [Power System Operation](/Background/BackgroundPower/){ .md-button } [power System Design](Background/BackgroundDesign.md){ .md-button }
+
+[Education](/Education/) 
+
 
 [<i class="fa fa-linkedin"></i> Linkedin](https://www.linkedin.com/in/araz-b-karimi-a7354716b/) 
 
 [  <i class="fa fa-github-square"></i> Github](https://github.com/Arazbrz)
 
+
 [Web of Science (My Peer Reviews)](https://www.webofscience.com/wos/author/record/AEZ-4303-2022)
-
-## Software Skill Set
-
-* Full Stack Web App with (React/NodeJS/Mongodb)
-* Backend: Python, C++, C#, Javascript (Node), PHP
-* Front-End (React/Javascript/CSS/HTML/MKDocs)
-* Database SQL: MySQL NoSQL: MongoDB and DBMS structure
-* Cloud: Azure, Google Cloud
-* Data Tools: Hadoop and Spark Echosytems, Kafka, Storm, Mahot
-* Data Visualization: Matplotlib (Python), PowerBI 
-
-## Power System Skill Set
-
-* Power System Study with Power Software tools such as: SKM, ASPEN, DigSILENT, CYME, ETAP and MATLAB
-* Power System substation Design
-* Distribution Studies such as renewable integration, Power-electronics integration, and power quality 
 
 ## Freelancer Platforms
 

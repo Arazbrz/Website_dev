@@ -1,26 +1,37 @@
 site_name: Araz Karimi
 site_url: htttp://arzbrz.com
-authors:
-- Araz Bagherzadeh Karimi
+site_author: Araz Bagherzadeh Karimi
+markdown_extensions:
+  - attr_list
+
+plugins:
+  - search
+  - git-authors
+
+
+
 nav:
 
 - Home: index.md
+
+- Education: Education.md
+
 -  Project Samples:  
-   - 'Software': Background/BackgroundSoftware.md
-   - 'Power': Background/BackgroundPower.md
+   - 'Data and Software Related': Background/BackgroundSoftware.md
+   - 'Power System Study, Operation and Modeling': Background/BackgroundPower.md
+   - 'Power System Design Related': Background/BackgroundDesign.md
   
-- Courses: Courses.md
+- Courses and Skills:
+   - 'Data and Software Related': Courses/Software.md
+   - 'Power System Study, Operation and Modeling': Courses/Operation.md
+   - 'Power System Design Related': Courses/Design.md
 
 - Articles: Articles.md
 
 - Project Request: ProjectRequest.md
 
-
-
-
-
 theme:
-    name: mkdocs
-    nav_style: dark
+  name: material
+
 
 

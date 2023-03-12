@@ -31,7 +31,11 @@ nav:
 - Project Request: ProjectRequest.md
 
 theme:
-  name: material
+    name: mkdocs
+    nav_style: dark
+
+extra:
+  generator: false
 
 
 

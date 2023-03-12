@@ -5,7 +5,7 @@ Power electronics interfacing renewables, storage, and novel transmission techno
 
 ## [Three phase Convex optimal power flow](https://github.com/Arazbrz/ThreephaseOPF)
 ##### MATLAB/Mathpower/CVX                          
-A mathematical model is created to calculated the real time optimal power flow for three phase unbalanced systems including PVs and EVs.
+A real-time enabled mathematical model is created to calculated the real time optimal power flow for three phase unbalanced systems including PVs and EVs.
 
 ## Single phase radial power flow (Backward-Forward)
 ##### MATLAB                          

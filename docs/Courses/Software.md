@@ -4,7 +4,7 @@
 ## Courses
 
 * Data Engineering Foundations (Linkedin Learning) [<i class="fa fa-bookmark"></i> Certificate](https://www.linkedin.com/learning/certificates/4c3fe0ae7b5986a6a2518c9eb8ca0727e8380b27af1e5cf35802abca003cf37f)
-* Learning Hadoop (Linkedin Learning) - Passed the skill test in Linkedin
+* Learning Hadoop (Linkedin Learning) - Passed the skill test in Linkedin [<i class="fa fa-bookmark"></i> Certificate](https://www.linkedin.com/learning/certificates/6be642a643addd982b0b2536ad7f5ffbea02bcb031c1ec8640bfdb83b173980a)
 * Machine learning (Georgia Tech) - Passed the skill test in Linkedin
 * Introduction to Database systems (Georgia Tech) - Passed the skill test in Linkedin
 * C++ (University of Tabriz)
